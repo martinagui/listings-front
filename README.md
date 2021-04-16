@@ -1,8 +1,8 @@
-## Listings 
+# Listings 
 A real estate marketplace - Front
 
-# Install
+## Install
 npm install
 
-# Start
+## Start
 npm start
